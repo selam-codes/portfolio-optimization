@@ -1,0 +1,3 @@
+Max Sharpe (Tangency)
+OrderedDict({'TSLA': 0.0, 'BND': 0.54674, 'SPY': 0.45326})
+(np.float64(0.07354882386507151), np.float64(0.08661897417416548), np.float64(0.8491075375377489))
